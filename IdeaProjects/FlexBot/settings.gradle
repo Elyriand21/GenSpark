@@ -1,4 +1,0 @@
-rootProject.name = 'FlexBot'
-include 'src'
-findProject(':src')?.name = 'main'
-
