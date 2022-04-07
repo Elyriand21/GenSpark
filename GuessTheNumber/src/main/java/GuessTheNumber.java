@@ -33,11 +33,6 @@ public class GuessTheNumber {
         print("Hello! What is your name?\n\n");
     }
 
-    private void displayInstructions() {
-        // Displays the instructions to the user
-
-    }
-
     private boolean play(Scanner input, String name) {
         boolean validAnswer;
         // Creates an integer value that determines how many tries the player has left
