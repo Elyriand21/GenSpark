@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="GuessTheNumberTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-07T19:57:50" hostname="Felixs-MBP" time="0.019">
-  <properties/>
-  <testcase name="getName()" classname="GuessTheNumberTest" time="0.018"/>
-  <testcase name="getAnswer()" classname="GuessTheNumberTest" time="0.001"/>
-  <system-out><![CDATA[No errors were found. All tests completed...
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
