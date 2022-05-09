@@ -1,0 +1,105 @@
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+
+Missed Letters:
+
+Word:
+
+Guess a letter.
+,
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+
+Missed Letters:
+
+Word:
+
+Guess a letter.
+,
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========
+
+Missed Letters:
+
+Word:
+
+Guess a letter.
+,
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+
+Missed Letters:
+
+Word:
+
+Guess a letter.
+,
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========
+
+Missed Letters:
+
+Word:
+
+Guess a letter.
+,
+  +---+
+  |   |
+  O   |
+ /|\  |
+ /    |
+      |
+=========
+
+Missed Letters:
+
+Word:
+
+Guess a letter.
+,
+  +---+
+  |   |
+  O   |
+ /|\  |
+ / \  |
+      |
+=========
+
+Yes! The secret word was
+Please enter your name to see if you got the high score!
+,
+  +---+
+  |   |
+  O   |
+ /|\  |
+ / \  |
+      |
+=========
+
+I'm sorry! The word was
+Would you like to play again? (y or n)
