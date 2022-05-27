@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+    <!-- bean definitions here -->
+    <bean id="address" class="org.genspark.Address">
+        <constructor-arg index="0" type="String" value="Asheville"/>
+        <constructor-arg index="1" type="String" value="NC"/>
+        <constructor-arg index="2" type="String" value="USA"/>
+        <constructor-arg index="3" type="String" value="28806"/>
+    </bean>
+    <bean id="phone" class="org.genspark.Phone">
+        <constructor-arg index="0" type="String" value="8287563456"/>
+    </bean>
+    <bean id="student" class="org.genspark.Student">
+        <constructor-arg index="0" type="int" value="356812"/>
+        <constructor-arg index="1" type="String" value="Jacob Smith"/>
+        <constructor-arg index="2" ref="phone"/>
+        <constructor-arg index="3" ref="address"/>
+    </bean>
+
+</beans>
